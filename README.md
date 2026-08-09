@@ -5,4 +5,4 @@
 3. Create a python virtual environment using "python -m venv .venv/"
 4. Activate the virtual environment.
 5. Run "pip install -r requirements.txt".
-6. Run all modules in the Jupyter notebook with that virtual environment selected.
+6. Run all modules in the stage1_notebook.ipynb Jupyter notebook with that virtual environment selected.
