@@ -1,0 +1,2 @@
+.venv/
+model_checkpoint/gpt2_pretrained_oversampling.py
